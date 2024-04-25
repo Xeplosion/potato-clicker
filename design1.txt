@@ -1,0 +1,5 @@
+start off by using the enemy class from the last assignment to save time.
+It basically works the exact same as the critters in this assignment so it should save some time.
+
+Next were gonna get some Minecraft potato assets...
+Put those into the game using pygame.
